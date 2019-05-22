@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="laba5">
+		<CBX_INST_ENTRY INSTANCE_NAME="|laba5|Master:inst12|lpm_decode0:inst13|lpm_decode:lpm_decode_component" CBX_FILE_NAME="decode_0sf.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|laba5|Master:inst13|lpm_mux0:inst10|LPM_MUX:lpm_mux_component" CBX_FILE_NAME="mux_54e.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|laba5|lpm_constant3:inst19|lpm_constant:lpm_constant_component" CBX_FILE_NAME="lpm_constant_7e6.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|laba5|Master:inst11|lpm_constant1:inst29|lpm_constant:lpm_constant_component" CBX_FILE_NAME="lpm_constant_4e6.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|laba5|Master:inst11|lpm_counter1:inst36|lpm_counter:lpm_counter_component" CBX_FILE_NAME="cntr_4ai.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|laba5|Master:inst13|lpm_decode0:inst13|lpm_decode:lpm_decode_component" CBX_FILE_NAME="decode_0sf.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|laba5|Slave:inst14|lpm_compare3:inst|lpm_compare:lpm_compare_component" CBX_FILE_NAME="cmpr_9ig.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|laba5|lpm_constant4:inst20|lpm_constant:lpm_constant_component" CBX_FILE_NAME="lpm_constant_8e6.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|laba5|Master:inst12|lpm_constant1:inst29|lpm_constant:lpm_constant_component" CBX_FILE_NAME="lpm_constant_4e6.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|laba5|Master:inst12|lpm_counter1:inst36|lpm_counter:lpm_counter_component" CBX_FILE_NAME="cntr_4ai.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|laba5|Slave:inst15|lpm_compare3:inst|lpm_compare:lpm_compare_component" CBX_FILE_NAME="cmpr_9ig.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|laba5|Arbitr:inst7|lpm_compare0:inst19|lpm_compare:lpm_compare_component" CBX_FILE_NAME="cmpr_tbj.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|laba5|Master:inst13|lpm_constant1:inst29|lpm_constant:lpm_constant_component" CBX_FILE_NAME="lpm_constant_4e6.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|laba5|Master:inst13|lpm_counter1:inst36|lpm_counter:lpm_counter_component" CBX_FILE_NAME="cntr_4ai.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|laba5|Master:inst|lpm_add_sub0:inst35|lpm_add_sub:lpm_add_sub_component" CBX_FILE_NAME="add_sub_8lh.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|laba5|Slave:inst16|lpm_compare3:inst|lpm_compare:lpm_compare_component" CBX_FILE_NAME="cmpr_9ig.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|laba5|Master:inst|lpm_mux0:inst10|LPM_MUX:lpm_mux_component" CBX_FILE_NAME="mux_54e.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|laba5|Slave:inst17|lpm_compare3:inst|lpm_compare:lpm_compare_component" CBX_FILE_NAME="cmpr_9ig.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|laba5|Arbitr:inst7|lpm_counter0:inst18|lpm_counter:lpm_counter_component" CBX_FILE_NAME="cntr_ulh.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|laba5|Master:inst11|lpm_add_sub0:inst35|lpm_add_sub:lpm_add_sub_component" CBX_FILE_NAME="add_sub_8lh.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|laba5|Master:inst|lpm_decode0:inst13|lpm_decode:lpm_decode_component" CBX_FILE_NAME="decode_0sf.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|laba5|Master:inst11|lpm_mux0:inst10|LPM_MUX:lpm_mux_component" CBX_FILE_NAME="mux_54e.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|laba5|Master:inst12|lpm_add_sub0:inst35|lpm_add_sub:lpm_add_sub_component" CBX_FILE_NAME="add_sub_8lh.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|laba5|lpm_constant2:inst18|lpm_constant:lpm_constant_component" CBX_FILE_NAME="lpm_constant_5e6.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|laba5|Master:inst11|lpm_decode0:inst13|lpm_decode:lpm_decode_component" CBX_FILE_NAME="decode_0sf.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|laba5|Master:inst12|lpm_mux0:inst10|LPM_MUX:lpm_mux_component" CBX_FILE_NAME="mux_54e.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|laba5|Master:inst13|lpm_add_sub0:inst35|lpm_add_sub:lpm_add_sub_component" CBX_FILE_NAME="add_sub_8lh.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|laba5|Master:inst|lpm_constant1:inst29|lpm_constant:lpm_constant_component" CBX_FILE_NAME="lpm_constant_4e6.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|laba5|Master:inst|lpm_counter1:inst36|lpm_counter:lpm_counter_component" CBX_FILE_NAME="cntr_4ai.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|laba5|lpm_constant5:inst25|lpm_constant:lpm_constant_component" CBX_FILE_NAME="lpm_constant_9e6.tdf"/>
+	</PROJECT>
+</LOG_ROOT>

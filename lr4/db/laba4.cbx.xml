@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="laba4">
+		<CBX_INST_ENTRY INSTANCE_NAME="|laba4|ControlBlock:inst1|lpm_compare13:inst46|lpm_compare:lpm_compare_component" CBX_FILE_NAME="cmpr_jni.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|laba4|ControlBlock:inst1|lpm_constant8:inst49|lpm_constant:lpm_constant_component" CBX_FILE_NAME="lpm_constant_6e6.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|laba4|ControlBlock:inst1|lpm_compare12:inst40|lpm_compare:lpm_compare_component" CBX_FILE_NAME="cmpr_g8j.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|laba4|ControlBlock:inst1|lpm_constant4:inst19|lpm_constant:lpm_constant_component" CBX_FILE_NAME="lpm_constant_hh6.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|laba4|MemoryBlock:inst3|lpm_rom0:inst|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_n9a1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|laba4|Registers:inst|lpm_constant7:inst13|lpm_constant:lpm_constant_component" CBX_FILE_NAME="lpm_constant_3e6.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|laba4|ControlBlock:inst1|lpm_compare19:inst59|lpm_compare:lpm_compare_component" CBX_FILE_NAME="cmpr_iok.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|laba4|ControlBlock:inst1|lpm_compare30:inst32|lpm_compare:lpm_compare_component" CBX_FILE_NAME="cmpr_tbj.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|laba4|ControlBlock:inst1|lpm_constant10:inst24|lpm_constant:lpm_constant_component" CBX_FILE_NAME="lpm_constant_4e6.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|laba4|ControlBlock:inst1|lpm_constant1:inst6|lpm_constant:lpm_constant_component" CBX_FILE_NAME="lpm_constant_4g6.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|laba4|ControlBlock:inst1|lpm_counter5:inst|lpm_counter:lpm_counter_component" CBX_FILE_NAME="cntr_olh.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|laba4|ControlBlock:inst1|lpm_counter6:inst52|lpm_counter:lpm_counter_component" CBX_FILE_NAME="cntr_ulh.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|laba4|MemoryBlock:inst3|lpm_compare12:inst3|lpm_compare:lpm_compare_component" CBX_FILE_NAME="cmpr_g8j.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|laba4|RAM_block:inst4|lpm_ram_dq4:inst|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_1bf1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|laba4|ControlBlock:inst1|lpm_compare26:inst10|lpm_compare:lpm_compare_component" CBX_FILE_NAME="cmpr_iok.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|laba4|ControlBlock:inst1|lpm_compare20:inst71|lpm_compare:lpm_compare_component" CBX_FILE_NAME="cmpr_iok.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|laba4|ControlBlock:inst1|lpm_mux1:inst8|LPM_MUX:lpm_mux_component" CBX_FILE_NAME="mux_c4e.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|laba4|Registers:inst|lpm_constant6:inst8|lpm_constant:lpm_constant_component" CBX_FILE_NAME="lpm_constant_6e6.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|laba4|ControlBlock:inst1|lpm_compare17:inst56|lpm_compare:lpm_compare_component" CBX_FILE_NAME="cmpr_iok.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|laba4|ControlBlock:inst1|lpm_compare21:inst80|lpm_compare:lpm_compare_component" CBX_FILE_NAME="cmpr_f8j.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|laba4|ControlBlock:inst1|lpm_compare27:inst11|lpm_compare:lpm_compare_component" CBX_FILE_NAME="cmpr_iok.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|laba4|ControlBlock:inst1|lpm_constant2:inst17|lpm_constant:lpm_constant_component" CBX_FILE_NAME="lpm_constant_8g6.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|laba4|ControlBlock:inst1|lpm_counter5:inst38|lpm_counter:lpm_counter_component" CBX_FILE_NAME="cntr_olh.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|laba4|ControlBlock:inst1|lpm_compare11:inst37|lpm_compare:lpm_compare_component" CBX_FILE_NAME="cmpr_kni.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|laba4|ControlBlock:inst1|lpm_compare25:inst5|lpm_compare:lpm_compare_component" CBX_FILE_NAME="cmpr_g8j.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|laba4|RAM_block:inst4|lpm_constant0:inst11|lpm_constant:lpm_constant_component" CBX_FILE_NAME="lpm_constant_3e6.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|laba4|RAM_block:inst4|lpm_constant0:inst2|lpm_constant:lpm_constant_component" CBX_FILE_NAME="lpm_constant_3e6.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|laba4|ControlBlock:inst1|lpm_constant3:inst18|lpm_constant:lpm_constant_component" CBX_FILE_NAME="lpm_constant_gh6.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|laba4|MemoryBlock:inst3|lpm_counter7:inst1|lpm_counter:lpm_counter_component" CBX_FILE_NAME="cntr_olh.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|laba4|Registers:inst|lpm_decode0:inst3|lpm_decode:lpm_decode_component" CBX_FILE_NAME="decode_5sf.tdf"/>
+	</PROJECT>
+</LOG_ROOT>

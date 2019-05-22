@@ -1,0 +1,15 @@
+Analysis & Synthesis Status : Successful - Thu Sep 20 14:48:59 2018
+Quartus II Version : 9.1 Build 222 10/21/2009 SJ Web Edition
+Revision Name : laba2
+Top-level Entity Name : laba2
+Family : Stratix II
+Logic utilization : N/A
+    Combinational ALUTs : 63
+    Dedicated logic registers : 34
+Total registers : 34
+Total pins : 35
+Total virtual pins : 0
+Total block memory bits : 0
+DSP block 9-bit elements : 0
+Total PLLs : 0
+Total DLLs : 0

@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="laba2">
+		<CBX_INST_ENTRY INSTANCE_NAME="|laba2|Block1:inst|lpm_add_sub4:inst4|lpm_add_sub:lpm_add_sub_component" CBX_FILE_NAME="add_sub_fmh.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|laba2|Block1:inst|lpm_add_sub3:inst|lpm_add_sub:lpm_add_sub_component" CBX_FILE_NAME="add_sub_2ph.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|laba2|Block1:inst|lpm_compare3:inst7|lpm_compare:lpm_compare_component" CBX_FILE_NAME="cmpr_mig.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|laba2|Block1:inst|lpm_counter1:inst2|lpm_counter:lpm_counter_component" CBX_FILE_NAME="cntr_i4i.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|laba2|Block2:inst4|lpm_compare6:inst1|lpm_compare:lpm_compare_component" CBX_FILE_NAME="cmpr_h8j.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|laba2|Block2:inst4|lpm_compare7:inst4|lpm_compare:lpm_compare_component" CBX_FILE_NAME="cmpr_p8j.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|laba2|Block2:inst4|lpm_counter2:inst|lpm_counter:lpm_counter_component" CBX_FILE_NAME="cntr_r3i.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|laba2|Block3:inst3|lpm_constant0:inst22|lpm_constant:lpm_constant_component" CBX_FILE_NAME="lpm_constant_3e6.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|laba2|Block1:inst|lpm_compare2:inst5|lpm_compare:lpm_compare_component" CBX_FILE_NAME="cmpr_rlg.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|laba2|Block2:inst4|lpm_compare8:inst6|lpm_compare:lpm_compare_component" CBX_FILE_NAME="cmpr_h8j.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|laba2|Block2:inst4|lpm_counter5:inst2|lpm_counter:lpm_counter_component" CBX_FILE_NAME="cntr_r3i.tdf"/>
+	</PROJECT>
+</LOG_ROOT>

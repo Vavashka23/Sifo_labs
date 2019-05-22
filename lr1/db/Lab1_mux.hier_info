@@ -1,0 +1,28 @@
+|Lab1_mux
+F <= inst28.DB_MAX_OUTPUT_PORT_TYPE
+CLK => inst28.CLK
+D0 => inst.IN0
+A0 => NOT_A0.DATAIN
+A0 => inst29.IN1
+A0 => inst32.IN1
+A0 => inst34.IN1
+A0 => inst36.IN1
+A1 => NOT_A1.DATAIN
+A1 => inst31.IN2
+A1 => inst32.IN2
+A1 => inst35.IN2
+A1 => inst36.IN2
+A2 => NOT_A2.DATAIN
+A2 => inst34.IN3
+A2 => inst33.IN3
+A2 => inst35.IN3
+A2 => inst36.IN3
+D2 => inst31.IN0
+D1 => inst29.IN0
+D3 => inst32.IN0
+D5 => inst34.IN0
+D4 => inst33.IN0
+D6 => inst35.IN0
+D7 => inst36.IN0
+
+

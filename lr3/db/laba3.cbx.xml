@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="laba3">
+		<CBX_INST_ENTRY INSTANCE_NAME="|laba3|ROM_block:inst|lpm_counter1:inst8|lpm_counter:lpm_counter_component" CBX_FILE_NAME="cntr_coi.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|laba3|lpm_compare11:inst6|lpm_compare:lpm_compare_component" CBX_FILE_NAME="cmpr_2cj.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|laba3|lpm_mux3:inst13|LPM_MUX:lpm_mux_component" CBX_FILE_NAME="mux_94e.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|laba3|RAM_block:inst4|lpm_compare12:inst22|lpm_compare:lpm_compare_component" CBX_FILE_NAME="cmpr_m8j.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|laba3|ROM_block:inst|lpm_rom0:inst|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_p281.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|laba3|Buffer:inst12|lpm_compare7:inst15|lpm_compare:lpm_compare_component" CBX_FILE_NAME="cmpr_tbj.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|laba3|RAM_block:inst4|lpm_ram_dq1:inst|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_9bf1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|laba3|ROM_block:inst|lpm_add_sub0:inst1|lpm_add_sub:lpm_add_sub_component" CBX_FILE_NAME="add_sub_elh.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|laba3|ROM_block:inst|lpm_compare0:inst2|lpm_compare:lpm_compare_component" CBX_FILE_NAME="cmpr_2cj.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|laba3|ROM_block:inst|lpm_compare1:inst9|lpm_compare:lpm_compare_component" CBX_FILE_NAME="cmpr_m8j.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|laba3|Buffer:inst12|lpm_compare3:inst7|lpm_compare:lpm_compare_component" CBX_FILE_NAME="cmpr_2cj.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|laba3|RAM_block:inst4|lpm_compare6:inst21|lpm_compare:lpm_compare_component" CBX_FILE_NAME="cmpr_m8j.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|laba3|RAM_block:inst4|lpm_counter5:inst18|lpm_counter:lpm_counter_component" CBX_FILE_NAME="cntr_coi.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|laba3|ROM_block:inst|lpm_compare2:inst10|lpm_compare:lpm_compare_component" CBX_FILE_NAME="cmpr_tbj.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|laba3|lpm_counter6:inst2|lpm_counter:lpm_counter_component" CBX_FILE_NAME="cntr_coi.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|laba3|Buffer:inst12|lpm_compare6:inst14|lpm_compare:lpm_compare_component" CBX_FILE_NAME="cmpr_m8j.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|laba3|Buffer:inst12|lpm_counter2:inst6|lpm_counter:lpm_counter_component" CBX_FILE_NAME="cntr_coi.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|laba3|RAM_block:inst4|lpm_compare9:inst1|lpm_compare:lpm_compare_component" CBX_FILE_NAME="cmpr_tbj.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|laba3|RAM_block:inst4|lpm_add_sub2:inst17|lpm_add_sub:lpm_add_sub_component" CBX_FILE_NAME="add_sub_elh.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|laba3|RAM_block:inst4|lpm_compare5:inst15|lpm_compare:lpm_compare_component" CBX_FILE_NAME="cmpr_2cj.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|laba3|RAM_block:inst4|lpm_counter3:inst5|lpm_counter:lpm_counter_component" CBX_FILE_NAME="cntr_coi.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|laba3|ROM_block:inst|lpm_counter0:inst6|lpm_counter:lpm_counter_component" CBX_FILE_NAME="cntr_coi.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|laba3|lpm_compare13:inst9|lpm_compare:lpm_compare_component" CBX_FILE_NAME="cmpr_m8j.tdf"/>
+	</PROJECT>
+</LOG_ROOT>
